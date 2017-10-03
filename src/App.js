@@ -1,4 +1,4 @@
-  import React, { Component } from 'react';
+import React, { Component } from 'react';
 import Projects from './components/projects';
 import AddProject from './components/AddProject';
 import Todos from './components/Todos';
